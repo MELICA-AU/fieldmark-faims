@@ -4,11 +4,11 @@
 ---
 
 ## Purpose
-[In two to three sentences state the purpose of this repository, ideally tying it to an existing SDAM milestone. E.g., The purpose of this repository is to provide templates for all future SDAM repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
+[In two to three sentences state the purpose of this repository, ideally tying it to an existing MELICA milestone. E.g., The purpose of this repository is to provide templates for all future MELICA repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
 
 ---
 ## Authors
-* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra@ancientsocialcomplexity.org
+* Adela Sobotkova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([(https://orcid.org/0000-0002-4541-3963)]), MELICA project, adela@cas.au.dk
 * [Name], [ORCID], [Institution], [email]
 * [Name], [ORCID], [Institution], [email]
 * [Name], [ORCID], [Institution], [email]

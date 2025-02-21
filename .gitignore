@@ -1,2 +1,7 @@
-.*
-!/.gitignore
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+georeferenced/
+large/
+Fieldmark/
